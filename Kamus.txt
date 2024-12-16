@@ -1,0 +1,9 @@
+keyboard
+mouse
+printer
+camera
+CPU
+GPU
+Motherboard
+HDD
+SSD
